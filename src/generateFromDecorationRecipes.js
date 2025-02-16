@@ -18,17 +18,12 @@ const decorationRecipes = JSON.parse(fs.readFileSync('./decorationRecipes.json',
 
 let recipes = []
 for (const decorationRecipe of decorationRecipes) {
-  if (OFFICIAL_RECIPE_MAP[recipe.id]) {
-    // Ignore any recipes that already have an official crafting recipe
+  if (!UNOFFICIAL_ITEM_NAME_MAP[decorationRecipe.output_item_id]) {
+    console.warn(`  > WARN: Ignoring decoration recipe, unsupported item id "${decorationRecipe.output_item_id}"`)
     continue
   }
 
-  if (!UNOFFICIAL_ITEM_NAME_MAP[recipe.output_item_id]) {
-    console.warn(`  > WARN: Ignoring decoration recipe, unsupported item id "${recipe.output_item_id}"`)
-    continue
-  }
-
-  const ingredientItems = recipe.ingredients.filter((x) => x.type === 'Item')
+  const ingredientItems = decorationRecipe.ingredients.filter((x) => x.type === 'Item')
   let ignore = false
   for (const item of ingredientItems) {
     if (!UNOFFICIAL_ITEM_NAME_MAP[item.id]) {
@@ -42,7 +37,7 @@ for (const decorationRecipe of decorationRecipes) {
   }
 
   const recipe = {
-    name: UNOFFICIAL_ITEM_NAME_MAP[decorationRecipe.id],
+    name: UNOFFICIAL_ITEM_NAME_MAP[decorationRecipe.output_item_id].replace(' (Handiwork)', ''),
     output_item_id: decorationRecipe.output_item_id,
     output_item_count: decorationRecipe.output_item_count,
     ingredients: decorationRecipe.ingredients,
