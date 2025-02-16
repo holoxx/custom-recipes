@@ -39,7 +39,16 @@ const SCHEMA = {
           },
           count: {
             type: 'integer',
-            required: true
+            required: true,
+            minimum: 1
+          },
+          achievement_id: {
+            type: 'integer',
+            minimum: 1
+          },
+          achievement_bit: {
+            type: 'integer',
+            minimum: 0
           }
         }
       },

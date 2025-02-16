@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "sh start.sh",
+    "format": "node src/format.js",
     "test": "node src/validate.js",
     "deleteduplicates": "node src/delete-duplicate-recipes.js"
   },

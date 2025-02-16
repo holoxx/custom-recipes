@@ -1,97 +1,62 @@
 const fs = require('fs')
-const fetch = require('node-fetch')
-const overwrites = require('./helpers/getOverwrites')
-const flatStringify = require('./helpers/flatStringify')
+const {pick} = require('@devoxa/flocky')
 
-async function main () {
-  console.log('Reading file')
-  const file = fs.readFileSync('./recipes.json', 'utf-8')
+// This script ensures that all recipes are following a consistent key order
+// Run: `npm run format`
 
-  console.log('Parsing file to JSON')
-  let json = JSON.parse(file)
+const KEY_ORDER = [
+  'id',
+  'name',
+  'output_item_id',
+  'output_item_count',
+  'ingredients',
 
-  console.log('Formatting recipes')
-  json = await Promise.all(json.map(formatRecipe))
-  json = json.filter(Boolean)
+  'disciplines',
+  'min_rating',
 
-  console.log('Writing to file')
-  fs.writeFileSync('./recipes.json', flatStringify(json), 'utf-8')
-}
+  'achievement_id',
+
+  'merchant',
+  'merchant_data_hash',
+
+  'decoration_data_hash'
+]
+
+const INGREDIENT_KEY_ORDER = [
+  'count',
+  'type',
+  'id',
+
+  'achievement_id',
+  'achievement_bit'
+]
+
+const MERCHANT_KEY_ORDER = ['name', 'locations']
 
 main()
+async function main() {
+  console.log('Formatting...')
 
-async function formatRecipe (recipe) {
-  let result = {}
+  const fileContent = fs.readFileSync('./recipes.json', 'utf-8')
 
-  const id = parseInt(recipe.id, 10)
-  if (id > 0) {
-    result.id = id
-  }
+  const input = JSON.parse(fileContent)
+  const output = input.map(formatRecipe)
 
-  result.name = recipe.name
-  result.output_item_id = recipe.output_item_id
-
-  if (typeof overwrites[result.output_item_id] !== 'undefined') {
-    result.id = overwrites[result.output_item_id]
-  }
-
-  if (result.output_item_id < 0) {
-    return false
-  }
-
-  result.output_item_count = recipe.output_item_count
-  result.ingredients = recipe.ingredients.map(formatIngredient).filter(Boolean)
-
-  if (result.ingredients.length === 0) {
-    return false
-  }
-
-  result.disciplines = recipe.disciplines
-
-  if (result.id) {
-    const apiRecipe = await getRecipe(result.id)
-
-    result.disciplines = apiRecipe.disciplines
-    result.min_rating = apiRecipe.min_rating
-  }
-
-  if (recipe.min_rating) {
-    result.min_rating = recipe.min_rating
-  }
-
-  if (recipe.achievement_id) {
-    result.achievement_id = recipe.achievement_id
-  }
-
-  if (recipe.merchant) {
-    result.merchant = recipe.merchant
-  }
-
-  if (recipe.merchant_data_hash) {
-    result.merchant_data_hash = recipe.merchant_data_hash
-  }
-
-  if (recipe.decoration_data_hash) {
-    result.decoration_data_hash = recipe.decoration_data_hash
-  }
-
-  return result
+  fs.writeFileSync('./recipes.json', JSON.stringify(output, null, 2), 'utf-8')
 }
 
-function formatIngredient (ingredient) {
-  if (ingredient.id < 0) {
-    return false
+function formatRecipe(input) {
+  const recipe = pick(input, KEY_ORDER)
+
+  recipe.ingredients = recipe.ingredients.map(ingredient =>
+    pick(ingredient, INGREDIENT_KEY_ORDER)
+  )
+
+  recipe.disciplines = recipe.disciplines.sort()
+
+  if (input.merchant) {
+    recipe.merchant = pick(input.merchant, MERCHANT_KEY_ORDER)
   }
 
-  let result = {}
-  result.count = ingredient.count
-  result.type = ingredient.type
-  result.id = ingredient.id
-
-  return result
-}
-
-async function getRecipe (id) {
-  const url = `https://api.guildwars2.com/v2/recipes/${id}`
-  return await fetch(url).then(x => x.json())
+  return recipe
 }
