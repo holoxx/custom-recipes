@@ -3,8 +3,10 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - master
+      - schema-update
   pull_request:
+    branches:
+      - schema-update
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
