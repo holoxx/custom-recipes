@@ -4,18 +4,17 @@
   "version": "1.0.0",
   "scripts": {
     "start": "sh start.sh",
-    "format": "node src/format.js",
-    "test": "node src/validate.js",
-    "deleteduplicates": "node src/delete-duplicate-recipes.js"
+    "recipes:format": "node src/format.js",
+    "recipes:test": "node src/test.js"
   },
   "dependencies": {
     "@devoxa/flocky": "^1.3.1",
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "gw2api-client": "^7.1.0",
-    "is-my-json-valid": "^2.17.2",
     "node-fetch": "^2.1.2",
     "nodemon": "^1.17.4",
-    "promise-throttle": "^1.0.0"
+    "promise-throttle": "^1.0.0",
+    "zod": "^3.24.2"
   }
 }

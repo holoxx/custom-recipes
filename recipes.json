@@ -68788,36 +68788,6 @@
     ]
   },
   {
-    "name": "Sclerite Karka Shell",
-    "output_item_id": 42425,
-    "output_item_count": 1,
-    "ingredients": [
-      {
-        "count": 1,
-        "type": "Item",
-        "id": 42426
-      },
-      {
-        "count": 250,
-        "type": "Item",
-        "id": 37897
-      },
-      {
-        "count": 100,
-        "type": "Item",
-        "id": 37907
-      },
-      {
-        "count": 50,
-        "type": "Item",
-        "id": 19721
-      }
-    ],
-    "disciplines": [
-      "Mystic Forge"
-    ]
-  },
-  {
     "name": "Small Wintersday Gift",
     "output_item_id": 38314,
     "output_item_count": 1,
@@ -102498,36 +102468,6 @@
     ]
   },
   {
-    "name": "Poem on Short Bows",
-    "output_item_id": 96849,
-    "output_item_count": 1,
-    "ingredients": [
-      {
-        "count": 10,
-        "type": "Item",
-        "id": 96151
-      },
-      {
-        "count": 10,
-        "type": "Item",
-        "id": 97790
-      },
-      {
-        "count": 1,
-        "type": "Item",
-        "id": 45842
-      },
-      {
-        "count": 1,
-        "type": "Item",
-        "id": 71148
-      }
-    ],
-    "disciplines": [
-      "Mystic Forge"
-    ]
-  },
-  {
     "name": "Attuned Master Bladesworn's Ring (Infused)",
     "output_item_id": 96411,
     "output_item_count": 1,
@@ -108077,11 +108017,6 @@
         "count": 250,
         "type": "Item",
         "id": 71581
-      },
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 26
       }
     ],
     "disciplines": [
@@ -109444,33 +109379,6 @@
     "merchant_data_hash": "x18vvrak"
   },
   {
-    "name": "Title: God of WvW",
-    "output_item_id": 93933,
-    "output_item_count": 1,
-    "ingredients": [
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 1
-      }
-    ],
-    "disciplines": [
-      "Merchant"
-    ],
-    "merchant": {
-      "name": "Legendary Commander War Razor",
-      "locations": [
-        "Eternal Battlegrounds, The Mists",
-        "Blue Alpine Borderlands, The Mists",
-        "Green Alpine Borderlands, The Mists",
-        "Obsidian Sanctum (zone), The Mists",
-        "Edge of the Mists, The Mists",
-        "Red Desert Borderlands, The Mists"
-      ]
-    },
-    "merchant_data_hash": "xoi1e95"
-  },
-  {
     "name": "Mist Capacitor",
     "output_item_id": 86502,
     "output_item_count": 1,
@@ -109479,11 +109387,6 @@
         "count": 250,
         "type": "Item",
         "id": 70820
-      },
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 33
       }
     ],
     "disciplines": [
@@ -118066,28 +117969,6 @@
     "merchant_data_hash": "xro25ix"
   },
   {
-    "name": "Recipe: Legendary Inscription",
-    "output_item_id": 79996,
-    "output_item_count": 1,
-    "ingredients": [
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 2
-      }
-    ],
-    "disciplines": [
-      "Merchant"
-    ],
-    "merchant": {
-      "name": "Grandmaster Craftsman Hobbs",
-      "locations": [
-        "Trader's Forum, Lion's Arch"
-      ]
-    },
-    "merchant_data_hash": "xmpqlsy"
-  },
-  {
     "name": "Recipe: Glacial Imbued Jar",
     "output_item_id": 71122,
     "output_item_count": 1,
@@ -125194,28 +125075,6 @@
       ]
     },
     "merchant_data_hash": "x191q5h"
-  },
-  {
-    "name": "Raptor",
-    "output_item_id": 84096,
-    "output_item_count": 1,
-    "ingredients": [
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 1
-      }
-    ],
-    "disciplines": [
-      "Merchant"
-    ],
-    "merchant": {
-      "name": "Aksim",
-      "locations": [
-        "The Sinking Ruins, Crystal Oasis"
-      ]
-    },
-    "merchant_data_hash": "xr4ao09"
   },
   {
     "name": "Lump of Coal",
@@ -140748,11 +140607,6 @@
         "count": 1000,
         "type": "Currency",
         "id": 32
-      },
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 1
       }
     ],
     "disciplines": [
@@ -146066,11 +145920,6 @@
         "count": 50,
         "type": "Currency",
         "id": 19
-      },
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 1
       }
     ],
     "disciplines": [
@@ -147981,11 +147830,6 @@
         "count": 50,
         "type": "Currency",
         "id": 19
-      },
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 1
       }
     ],
     "disciplines": [
@@ -194373,11 +194217,6 @@
     "output_item_id": 66902,
     "output_item_count": 1,
     "ingredients": [
-      {
-        "count": 0,
-        "type": "Currency",
-        "id": 1
-      },
       {
         "count": 12,
         "type": "Currency",

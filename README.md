@@ -4,6 +4,15 @@
 
 > Additional recipes which the official API does not provide.
 
+## Development
+
+After making changes, please run the following commands to ensure the recipes are valid:
+
+```bash
+yarn recipes:format
+yarn recipes:test
+```
+
 ## License
 
 [GPL-3.0](LICENSE)

@@ -2,7 +2,7 @@ const fs = require('fs')
 const {pick} = require('@devoxa/flocky')
 
 // This script ensures that all recipes are following a consistent key order
-// Run: `npm run format`
+// Run: `npm run recipes:format`
 
 const KEY_ORDER = [
   'id',
@@ -10,7 +10,6 @@ const KEY_ORDER = [
   'output_item_id',
   'output_item_count',
   'ingredients',
-
   'disciplines',
   'min_rating',
 
@@ -38,8 +37,8 @@ async function main() {
   console.log('Formatting...')
 
   const fileContent = fs.readFileSync('./recipes.json', 'utf-8')
-
   const input = JSON.parse(fileContent)
+
   const output = input.map(formatRecipe)
 
   fs.writeFileSync('./recipes.json', JSON.stringify(output, null, 2), 'utf-8')
