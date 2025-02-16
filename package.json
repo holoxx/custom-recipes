@@ -16,5 +16,8 @@
     "nodemon": "^1.17.4",
     "promise-throttle": "^1.0.0",
     "zod": "^3.24.2"
+  },
+  "volta": {
+    "node": "20.15.1"
   }
 }
