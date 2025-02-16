@@ -2,7 +2,7 @@ const fs = require('fs')
 const {pick} = require('@devoxa/flocky')
 
 // This script ensures that all recipes are following a consistent key order
-// Run: `npm run recipes:format`
+// Run: `yarn recipes:format` (or `yarn recipes:format --check` to fail when re-formatting is required)
 
 const KEY_ORDER = [
   'id',
@@ -34,14 +34,25 @@ const MERCHANT_KEY_ORDER = ['name', 'locations']
 
 main()
 async function main() {
-  console.log('Formatting...')
+  const WRITE = !process.argv.includes('--check')
+  console.log(WRITE ? 'Formatting...' : 'Checking formatting...')
 
   const fileContent = fs.readFileSync('./recipes.json', 'utf-8')
   const input = JSON.parse(fileContent)
 
   const output = input.map(formatRecipe)
 
-  fs.writeFileSync('./recipes.json', JSON.stringify(output, null, 2), 'utf-8')
+  if (WRITE) {
+    fs.writeFileSync('./recipes.json', JSON.stringify(output, null, 2), 'utf-8')
+    return
+  }
+
+  if (fileContent !== JSON.stringify(output, null, 2)) {
+    console.log('Formatting issues found. Run `yarn recipes:format` to fix.')
+    process.exit(1)
+  } else {
+    console.log('File uses correct formatting!')
+  }
 }
 
 function formatRecipe(input) {

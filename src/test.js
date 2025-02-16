@@ -4,7 +4,7 @@ const {pick, duplicates} = require('@devoxa/flocky')
 const crypto = require('crypto')
 
 // This script ensures that all recipes have a valid data structure
-// Run: `npm run recipes:test`
+// Run: `yarn recipes:test`
 
 const IngredientTypeSchema = z.enum(['Item', 'GuildUpgrade', 'Currency'])
 
