@@ -18,7 +18,9 @@ const KEY_ORDER = [
   'merchant',
   'merchant_data_hash',
 
-  'decoration_data_hash'
+  'decoration_data_hash',
+
+  'force_use_recipe'
 ]
 
 const INGREDIENT_KEY_ORDER = [
@@ -49,6 +51,7 @@ async function main() {
 
   if (fileContent !== JSON.stringify(output, null, 2)) {
     console.log('Formatting issues found. Run `yarn recipes:format` to fix.')
+    console.log('ADD NEW KEYS TO THE FORMATTER FIRST - THEY WILL GET DELETED.')
     process.exit(1)
   } else {
     console.log('File uses correct formatting!')

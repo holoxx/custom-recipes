@@ -68,7 +68,9 @@ const RecipeSchema = z
       .optional(),
     merchant_data_hash: z.string().optional(),
 
-    decoration_data_hash: z.string().optional()
+    decoration_data_hash: z.string().optional(),
+
+    force_use_recipe: z.boolean().optional()
   })
   .strict()
   // When a recipe has an official discipline, it must have a min_rating

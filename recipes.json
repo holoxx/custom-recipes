@@ -168878,7 +168878,8 @@
         "Mystic Forge"
       ]
     },
-    "merchant_data_hash": "xvdwesa"
+    "merchant_data_hash": "xvdwesa",
+    "force_use_recipe": true
   },
   {
     "name": "Philosopher's Stone",
@@ -168900,7 +168901,8 @@
         "Mystic Forge"
       ]
     },
-    "merchant_data_hash": "xiuw2u8"
+    "merchant_data_hash": "xiuw2u8",
+    "force_use_recipe": true
   },
   {
     "name": "Siege Novice's Guide",
@@ -173387,7 +173389,8 @@
         "Cathedral of Glorious Victory, Straits of Devastation"
       ]
     },
-    "merchant_data_hash": "x1djtn6w"
+    "merchant_data_hash": "x1djtn6w",
+    "force_use_recipe": true
   },
   {
     "name": "Obsidian Shard",
