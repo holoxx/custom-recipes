@@ -38126,7 +38126,7 @@ module.exports = [
           { type: 'Item', id: 68063, count: 1 },
           { type: 'Item', id: 19925, count: 1 },
           { type: 'Item', id: 19721, count: 1 },
-          { type: 'Item', id: 34, count: 100 }
+          { type: 'Currency', id: 34, count: 100 }
         ]
       },
       {
