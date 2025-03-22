@@ -200683,7 +200683,8 @@
         "Tomb of the Primeval Kings, Desert Highlands"
       ]
     },
-    "merchant_data_hash": "x1n5z04y"
+    "merchant_data_hash": "x1n5z04y",
+    "force_use_recipe": true
   },
   {
     "name": "Funerary Incense",
