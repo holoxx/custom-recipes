@@ -242084,5 +242084,3148 @@
     ],
     "min_rating": 1,
     "decoration_data_hash": "x10atmq5"
+  },
+  {
+    "name": "Capped Gold Pillar",
+    "output_item_id": 2001000000354,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 60,
+        "type": "Item",
+        "id": 68944
+      },
+      {
+        "count": 60,
+        "type": "Item",
+        "id": 75012
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xqe3v56"
+  },
+  {
+    "name": "Gold Samarog Trophy",
+    "output_item_id": 2001000000788,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 80087
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1y86fj1"
+  },
+  {
+    "name": "Charr Summit Banner",
+    "output_item_id": 2001000000051,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24741
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1hz5o98"
+  },
+  {
+    "name": "Sylvari Summit Banner",
+    "output_item_id": 2001000000470,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24735
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xjyz6y"
+  },
+  {
+    "name": "Leaping Lion Fountain",
+    "output_item_id": 2001000000086,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 90,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 99163
+      },
+      {
+        "count": 1000,
+        "type": "Currency",
+        "id": 2
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1k0wqf9"
+  },
+  {
+    "name": "Tall Academic Arch",
+    "output_item_id": 2001000000085,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xlh50y3"
+  },
+  {
+    "name": "Statue of Joko the Indomitable",
+    "output_item_id": 2001000000479,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 5,
+        "type": "Currency",
+        "id": 35
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xphjsuj"
+  },
+  {
+    "name": "Lattice Arbor",
+    "output_item_id": 2001000000135,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 4,
+        "type": "Item",
+        "id": 74988
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 74763
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xnkl80r"
+  },
+  {
+    "name": "Gold Tequatl Trophy",
+    "output_item_id": 2001000000629,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24335
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 19721
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77709
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1rp5glf"
+  },
+  {
+    "name": "Gold Wall",
+    "output_item_id": 2001000000363,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 68944
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 75012
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1bh8uva"
+  },
+  {
+    "name": "Gold Desmina Trophy",
+    "output_item_id": 2001000000525,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 85993
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x5c95h"
+  },
+  {
+    "name": "Gold Gorseval Trophy",
+    "output_item_id": 2001000000360,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77751
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1dnf8nh"
+  },
+  {
+    "name": "Gold Cardinal Sabir Trophy",
+    "output_item_id": 2001000000785,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 91270
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1sqb9zq"
+  },
+  {
+    "name": "Academic Wall",
+    "output_item_id": 2001000000015,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x5ixvuz"
+  },
+  {
+    "name": "Gold Keep Construct Trophy",
+    "output_item_id": 2001000000401,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 78902
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1hyrlj8"
+  },
+  {
+    "name": "Kryptis Platform",
+    "output_item_id": 2001000000266,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 100078
+      },
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 101150
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xfm241t"
+  },
+  {
+    "name": "Round Academic Column",
+    "output_item_id": 2001000000349,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x12qtymi"
+  },
+  {
+    "name": "Asuran Summit Banner",
+    "output_item_id": 2001000000538,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24726
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x6iyl44"
+  },
+  {
+    "name": "Norn Summit Banner",
+    "output_item_id": 2001000000096,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24729
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x54e43b"
+  },
+  {
+    "name": "Asuran Summit Flag",
+    "output_item_id": 2001000000563,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24726
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1t4a9u6"
+  },
+  {
+    "name": "Academic Light",
+    "output_item_id": 2001000000469,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 27,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24305
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 99964
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x13amut"
+  },
+  {
+    "name": "Large Female Norn Holo-Dancer",
+    "output_item_id": 2001000000578,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 38,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24275
+      },
+      {
+        "count": 12,
+        "type": "Item",
+        "id": 73248
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x7w2gtr"
+  },
+  {
+    "name": "Large Male Norn Holo-Dancer",
+    "output_item_id": 2001000000348,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 38,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24275
+      },
+      {
+        "count": 12,
+        "type": "Item",
+        "id": 73248
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xscg200"
+  },
+  {
+    "name": "Summit Banner",
+    "output_item_id": 2001000000403,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 67787
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x16uio4m"
+  },
+  {
+    "name": "Kaineng City Umbrella",
+    "output_item_id": 2001000000562,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 27,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 8,
+        "type": "Item",
+        "id": 96533
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 19748
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1yv3lew"
+  },
+  {
+    "name": "Gold Siege the Stronghold Trophy",
+    "output_item_id": 2001000000370,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 78873
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1d1488n"
+  },
+  {
+    "name": "Gold White Mantle Abomination Trophy",
+    "output_item_id": 2001000000652,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77679
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xuysfgo"
+  },
+  {
+    "name": "Statue of Joko the Majestic",
+    "output_item_id": 2001000000019,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 5,
+        "type": "Currency",
+        "id": 35
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xnmoxgn"
+  },
+  {
+    "name": "Kryptis Goo Plane",
+    "output_item_id": 2001000000508,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 4,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 100098
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 100055
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x113pxr9"
+  },
+  {
+    "name": "Astral Ward Orb Stand",
+    "output_item_id": 2001000000466,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 100375
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 100045
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x896js4"
+  },
+  {
+    "name": "Master Brewer's Keg",
+    "output_item_id": 2001000000703,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 105,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 8508
+      },
+      {
+        "count": 1000,
+        "type": "Currency",
+        "id": 2
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1e5psj4"
+  },
+  {
+    "name": "Norn Summit Flag",
+    "output_item_id": 2001000000646,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24729
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xf91tph"
+  },
+  {
+    "name": "Armor Display Case",
+    "output_item_id": 2001000000437,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 24803
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 19721
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 102655
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x194x8qd"
+  },
+  {
+    "name": "Gold Chak Gerent Trophy",
+    "output_item_id": 2001000000465,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 70842
+      },
+      {
+        "count": 100,
+        "type": "Currency",
+        "id": 20
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77748
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xdu2qdg"
+  },
+  {
+    "name": "Astral Ward Door",
+    "output_item_id": 2001000000477,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 100375
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 96052
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xqvgolm"
+  },
+  {
+    "name": "Awakened Tar Pit",
+    "output_item_id": 2001000000428,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 70426
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x9e7n17"
+  },
+  {
+    "name": "Awakened Tar Drip",
+    "output_item_id": 2001000000109,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 70426
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x2wg2y"
+  },
+  {
+    "name": "Gold Qadim Trophy",
+    "output_item_id": 2001000000195,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 88645
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x14q3scb"
+  },
+  {
+    "name": "Stylized Stone Dragon Head",
+    "output_item_id": 2001000000584,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 27,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24310
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 97233
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xxunwxk"
+  },
+  {
+    "name": "Statue of Joko the Victorious",
+    "output_item_id": 2001000000418,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 5,
+        "type": "Currency",
+        "id": 35
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xzskn2g"
+  },
+  {
+    "name": "Kodan Painting 3",
+    "output_item_id": 2001000000130,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 29,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 9,
+        "type": "Item",
+        "id": 75862
+      },
+      {
+        "count": 9,
+        "type": "Item",
+        "id": 70426
+      },
+      {
+        "count": 9,
+        "type": "Item",
+        "id": 102655
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xbh6v2r"
+  },
+  {
+    "name": "Leaping Lion Statue",
+    "output_item_id": 2001000000416,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 90,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 99141
+      },
+      {
+        "count": 1000,
+        "type": "Currency",
+        "id": 2
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1023dlz"
+  },
+  {
+    "name": "Gold Mursaat Overseer Trophy",
+    "output_item_id": 2001000000106,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 80269
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1fvph"
+  },
+  {
+    "name": "Charr Heliplatform",
+    "output_item_id": 2001000000151,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 75,
+        "type": "Item",
+        "id": 92072
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24305
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1tvd1yn"
+  },
+  {
+    "name": "Gold Dhuum Trophy",
+    "output_item_id": 2001000000642,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 85633
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1qsfgtp"
+  },
+  {
+    "name": "Gold Twin Largos Trophy",
+    "output_item_id": 2001000000803,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 88860
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1ijsop0"
+  },
+  {
+    "name": "Gold Statue of Grenth Trophy",
+    "output_item_id": 2001000000313,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 85800
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xjq76tn"
+  },
+  {
+    "name": "Elonian Urn",
+    "output_item_id": 2001000000488,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 83103
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 24520
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xyrgfv0"
+  },
+  {
+    "name": "Charr Summit Flag",
+    "output_item_id": 2001000000331,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24741
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x13fb9w4"
+  },
+  {
+    "name": "Long Fancy Table",
+    "output_item_id": 2001000000235,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 68819
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 9456
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xz14562"
+  },
+  {
+    "name": "Statue of Joko the Fearsome",
+    "output_item_id": 2001000000209,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 5,
+        "type": "Currency",
+        "id": 35
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x6adb73"
+  },
+  {
+    "name": "Gold Xera Trophy",
+    "output_item_id": 2001000000318,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 78942
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xib2rtb"
+  },
+  {
+    "name": "Astral Ward Staircase",
+    "output_item_id": 2001000000208,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 99964
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24836
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x38wdwe"
+  },
+  {
+    "name": "Complete Academic Arch",
+    "output_item_id": 2001000000339,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 38,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1jl2y9y"
+  },
+  {
+    "name": "Academic Wall with Windows",
+    "output_item_id": 2001000000609,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1enmf5f"
+  },
+  {
+    "name": "Awakened Bone Column",
+    "output_item_id": 2001000000649,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 24341
+      },
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 83757
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x5oz6hk"
+  },
+  {
+    "name": "Tyrian Globe",
+    "output_item_id": 2001000000076,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 71069
+      },
+      {
+        "count": 3000,
+        "type": "Currency",
+        "id": 2
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x154b0hc"
+  },
+  {
+    "name": "Astral Ward Pillar",
+    "output_item_id": 2001000000546,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 68063
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 100045
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xmbhk76"
+  },
+  {
+    "name": "Uzolan's Mechanical Orchestra",
+    "output_item_id": 2001000000142,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 125,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 19673
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 44941
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1qy3czn"
+  },
+  {
+    "name": "Kryptis Door (Tall and Wide)",
+    "output_item_id": 2001000000290,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 100055
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 101150
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1mssj6m"
+  },
+  {
+    "name": "Kryptis Pillar",
+    "output_item_id": 2001000000748,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 19732
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 100055
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1gph4qt"
+  },
+  {
+    "name": "Gold River of Souls Trophy",
+    "output_item_id": 2001000000514,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 85785
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1390a3p"
+  },
+  {
+    "name": "Gold Triple Trouble Trophy",
+    "output_item_id": 2001000000742,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24310
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 19721
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77714
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1alqy00"
+  },
+  {
+    "name": "Gold Shatterer Trophy",
+    "output_item_id": 2001000000212,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24330
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 90783
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77718
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1xj1gk"
+  },
+  {
+    "name": "Gold Cairn the Indomitable Trophy",
+    "output_item_id": 2001000000772,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 80623
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x18bgtl6"
+  },
+  {
+    "name": "Guild Banquet Table",
+    "output_item_id": 2001000000710,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24511
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1cic2xz"
+  },
+  {
+    "name": "Kryptis Stair",
+    "output_item_id": 2001000000456,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 24295
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 100078
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1t6pp22"
+  },
+  {
+    "name": "Jewelry Display Case",
+    "output_item_id": 2001000000620,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 19745
+      },
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 103427
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1cbfcyv"
+  },
+  {
+    "name": "Kodan Outdoor Bath",
+    "output_item_id": 2001000000146,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 38,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 24315
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 24320
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 102655
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1cbu0ei"
+  },
+  {
+    "name": "Astral Ward Tiled Circular Platform",
+    "output_item_id": 2001000000289,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 24277
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 100375
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xqqiyf2"
+  },
+  {
+    "name": "Gold Sabetha Trophy",
+    "output_item_id": 2001000000358,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77728
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1lobnxo"
+  },
+  {
+    "name": "Summit Flag",
+    "output_item_id": 2001000000392,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 67787
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x17mrjcj"
+  },
+  {
+    "name": "Large Canthan Cherry Tree",
+    "output_item_id": 2001000000669,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 97790
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 102655
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xo4lehc"
+  },
+  {
+    "name": "Square Academic Column",
+    "output_item_id": 2001000000690,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x5vd1a0"
+  },
+  {
+    "name": "Gold Ether Djinn Trophy",
+    "output_item_id": 2001000000380,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 91175
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1xvjagr"
+  },
+  {
+    "name": "Branded Spire",
+    "output_item_id": 2001000000696,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 82678
+      },
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 89537
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xj3u3mt"
+  },
+  {
+    "name": "Mists Dolyak Statue",
+    "output_item_id": 2001000000408,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 32,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 25,
+        "type": "Currency",
+        "id": 26
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24699
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xvdpsyi"
+  },
+  {
+    "name": "Gold Deimos Trophy",
+    "output_item_id": 2001000000314,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 80542
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xslm73v"
+  },
+  {
+    "name": "Canthan Nian Statue",
+    "output_item_id": 2001000000536,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 33,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 96680
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 96151
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x10mntx0"
+  },
+  {
+    "name": "Astral Ward Gate",
+    "output_item_id": 2001000000293,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 99964
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 24522
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x11uxqv1"
+  },
+  {
+    "name": "Awakened Bone Wall",
+    "output_item_id": 2001000000520,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 22,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 24341
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 83757
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1gbszfi"
+  },
+  {
+    "name": "Gold Slothasor Trophy",
+    "output_item_id": 2001000000579,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77706
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1oex0ef"
+  },
+  {
+    "name": "Astral Ward Wall",
+    "output_item_id": 2001000000334,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 29,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 24,
+        "type": "Item",
+        "id": 100375
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 96052
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xmd4hoi"
+  },
+  {
+    "name": "Human Summit Flag",
+    "output_item_id": 2001000000551,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24732
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x164adew"
+  },
+  {
+    "name": "Statue of Joko the Powerful",
+    "output_item_id": 2001000000008,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 34,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 83757
+      },
+      {
+        "count": 5,
+        "type": "Currency",
+        "id": 35
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xay4d1i"
+  },
+  {
+    "name": "Fragments of the Solid Ocean",
+    "output_item_id": 2001000000102,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 4,
+        "type": "Item",
+        "id": 38022
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 95692
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x5nwoox"
+  },
+  {
+    "name": "Fractal Console",
+    "output_item_id": 2001000000304,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 108,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 43772
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 96052
+      },
+      {
+        "count": 18,
+        "type": "Item",
+        "id": 19721
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x15kzdoo"
+  },
+  {
+    "name": "Gold Pillar",
+    "output_item_id": 2001000000545,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 27,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 68944
+      },
+      {
+        "count": 40,
+        "type": "Item",
+        "id": 75012
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1gnr2e7"
+  },
+  {
+    "name": "Human Summit Banner",
+    "output_item_id": 2001000000779,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 26,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24732
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1cra5jo"
+  },
+  {
+    "name": "Kryptis Square Floor",
+    "output_item_id": 2001000000271,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 4,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 100098
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 100078
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1mctsw4"
+  },
+  {
+    "name": "Beetletun Statue Fragments",
+    "output_item_id": 2001000000287,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 80323
+      },
+      {
+        "count": 50,
+        "type": "Currency",
+        "id": 32
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1y16jut"
+  },
+  {
+    "name": "Gold Vale Guardian Trophy",
+    "output_item_id": 2001000000342,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77705
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xvkfssk"
+  },
+  {
+    "name": "Gold Cardinal Adina Trophy",
+    "output_item_id": 2001000000444,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 91246
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xnjmjy7"
+  },
+  {
+    "name": "Globe of Whispers",
+    "output_item_id": 2001000000724,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 38,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 24277
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 46746
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x3b65y"
+  },
+  {
+    "name": "Gold Mordremoth Trophy",
+    "output_item_id": 2001000000217,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 74202
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 77742
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 70842
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x13lcaju"
+  },
+  {
+    "name": "Sylvari Summit Flag",
+    "output_item_id": 2001000000505,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 28,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 19746
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24735
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1l2mpqg"
+  },
+  {
+    "name": "Gold Conjured Amalgamate Trophy",
+    "output_item_id": 2001000000294,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 77378
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 88543
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1cmowdz"
+  },
+  {
+    "name": "Elonian Gong",
+    "output_item_id": 2001000000615,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 33,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 50,
+        "type": "Currency",
+        "id": 34
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24515
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1xsn4zr"
+  },
+  {
+    "name": "Kryptis Wall",
+    "output_item_id": 2001000000512,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 19732
+      },
+      {
+        "count": 20,
+        "type": "Item",
+        "id": 100414
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x8wnjf1"
+  },
+  {
+    "name": "Partial Academic Arch",
+    "output_item_id": 2001000000020,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 33,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 15,
+        "type": "Item",
+        "id": 75762
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 24310
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xk6tb98"
+  },
+  {
+    "name": "Gold Decima Trophy",
+    "output_item_id": 2001000000843,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 104026
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 103754
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1wfzdbx"
+  },
+  {
+    "name": "Deluxe Wyvern Trophy",
+    "output_item_id": 2001000000075,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 48,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 70842
+      },
+      {
+        "count": 10,
+        "type": "Item",
+        "id": 68942
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 24315
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1oht83h"
+  },
+  {
+    "name": "Charr Effigy",
+    "output_item_id": 2001000000854,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 125,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 92072
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 24741
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 102503
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x11lor3a"
+  },
+  {
+    "name": "Jade Tech Microwave",
+    "output_item_id": 2001000000852,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 30,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 97102
+      },
+      {
+        "count": 4,
+        "type": "Item",
+        "id": 96561
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x18hjegv"
+  },
+  {
+    "name": "Deluxe Charr Copter",
+    "output_item_id": 2001000000602,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 60,
+        "type": "Item",
+        "id": 102205
+      },
+      {
+        "count": 25,
+        "type": "Item",
+        "id": 69434
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 49782
+      },
+      {
+        "count": 1,
+        "type": "Item",
+        "id": 68063
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1sq4y9f"
+  },
+  {
+    "name": "Gold Greer Trophy",
+    "output_item_id": 2001000000853,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 104026
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 104047
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1ulqi94"
+  },
+  {
+    "name": "Armor Display Case—Mannequin",
+    "output_item_id": 2001000000265,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 115,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 24803
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 19925
+      },
+      {
+        "count": 50,
+        "type": "Item",
+        "id": 103427
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xiavzta"
+  },
+  {
+    "name": "Gold Ura Trophy",
+    "output_item_id": 2001000000848,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 130,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 100,
+        "type": "Item",
+        "id": 104026
+      },
+      {
+        "count": 5,
+        "type": "Item",
+        "id": 103996
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1yamsk"
+  },
+  {
+    "name": "Wizard Rug",
+    "output_item_id": 2001000000881,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 19747
+      },
+      {
+        "count": 8,
+        "type": "Item",
+        "id": 100045
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1551g1i"
+  },
+  {
+    "name": "Decorative Outdoor Rug",
+    "output_item_id": 2001000000879,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 4,
+        "type": "Item",
+        "id": 19740
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 20323
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xvrw7wb"
+  },
+  {
+    "name": "Decorative Outdoor Rug",
+    "output_item_id": 2001000000879,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 102558
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 103038
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1chz23o"
+  },
+  {
+    "name": "Fancy Small Rug",
+    "output_item_id": 2001000000876,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 19740
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 20323
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xdwllsy"
+  },
+  {
+    "name": "Sturdy Outdoor Rug",
+    "output_item_id": 2001000000880,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 103049
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 19684
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 103038
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "xt57mxw"
+  },
+  {
+    "name": "Lotus Rug",
+    "output_item_id": 2001000000877,
+    "output_item_count": 1,
+    "ingredients": [
+      {
+        "count": 35,
+        "type": "Item",
+        "id": 102306
+      },
+      {
+        "count": 3,
+        "type": "Item",
+        "id": 19740
+      },
+      {
+        "count": 2,
+        "type": "Item",
+        "id": 102558
+      }
+    ],
+    "disciplines": [
+      "Handiworker"
+    ],
+    "min_rating": 400,
+    "decoration_data_hash": "x1q0bxe4"
   }
 ]
