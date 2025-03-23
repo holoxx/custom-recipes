@@ -96,4 +96,4 @@ recipesJson = recipesJson.concat(newRecipes)
 console.log('Writing output into recipes.json...')
 fs.writeFileSync('./recipes.json', flatStringify(recipesJson, null, 2), 'utf-8')
 
-console.log('Done, next run `node src/format.js && node src/validate.js`')
+console.log('Done, next run `node src/format.js`')

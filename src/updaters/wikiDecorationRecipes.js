@@ -58,6 +58,8 @@ async function crawlDecorationRecipes() {
   recipes = recipes.sort((a, b) => a.id - b.id)
 
   fs.writeFileSync('decorationRecipes.json', JSON.stringify(recipes, null, 2))
+
+  console.log('Done, next run `node src/generateFromDecorationRecipes.js`')
 }
 
 crawlDecorationRecipes()
